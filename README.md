@@ -1,5 +1,5 @@
 # CMF
-In the file below you can find my work for application in CMF'22
+Here you can find my work for the second stage in CMF course
 
 Data for the project can be found here: https://www.kaggle.com/datasets/franciscofeng/augmented-china-stock-data-with-fundamentals
 
